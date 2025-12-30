@@ -1,11 +1,18 @@
-# The Unlicense
+# Licence (CC0 1.0)
 
-This is free and unencumbered software released into the public domain.
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of their rights to the work worldwide under copyright law, including all related and neighbouring rights, to the extent allowed by law.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non‐commercial, and by any means.
+**You are free to:**
 
-In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law.
+1. **Copy**, modify and redistribute the work, even for commercial purposes, all without asking permission.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+**Under the following terms:**
 
-For more information, please refer to [https://unlicense.org](https://unlicense.org).
+- **No conditions:** There are no restrictions attached to this work. You do not have to provide attribution, though it is appreciated if you do.
+- **No additional restrictions:** You may not apply legal terms or technological measures that legally restrict others from doing anything the licence permits.
+
+**Notices:**
+
+- You do not have to comply with the licence for elements in the **public domain** or where your use is permitted by an **applicable exception or limitation**.
+- No warranties are given. The work is provided “as‐is”. The licence may not cover all permissions necessary for your intended use. Other rights (e.g., privacy, publicity, moral rights) may still apply.
+- This is a human‐readable summary of (and not a substitute for) the [licence](https://creativecommons.org/publicdomain/zero/1.0/).
